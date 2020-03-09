@@ -1,0 +1,112 @@
+<!-- 
+
+Lesson 1
+
+Computer code is just instrusctions for a computer to follow.
+
+HTML and CSS tell the web browser what to display on a web page.
+
+Javascript tells the browser how to display the information.
+
+Javascript is the most popular programming language in the world today.
+
+Every Web Browser has javascript app within it that reads javascript code
+
+/////////////////////////////////////////////////////////////////
+
+Lesson 2
+
+Javascript has the same priciples as all other programming languages, such as variables lopps etc...
+
+By learning javascript you are learning the foundations of all programming languages.
+
+/////////////////////////////////////////////////////////////////
+
+Lesson 3
+
+Every Web browser has javascipt built in.
+
+You can use any code editor to write javascript.
+
+/////////////////////////////////////////////////////////////////
+
+Lesson 4 
+
+old style js tags --------- <script type="text/javascript">
+
+Modern Style js tags ---------- <script>
+                                    type javascript here
+                                </script>
+
+
+java is not javascript!
+
+java != javascipt
+
+the bang! operator above is nerd code that says java is not equal to javascript.
+
+ -->
+
+ ////////////////////////////////////////////////////////////////
+
+ Lesson 5
+
+ Like all other code, javascript is read from the top down by web browsers! Just like css.
+
+ The order of your js code matters!
+
+ js code can be put in the head or the body of your code.
+
+You make a comment in javascipt by writing //document in front of your code.
+
+//document the rest of your code.
+
+If you want to make a multiline js comment you ad a /* like in css.
+
+/*document
+
+/*
+
+You can also add js to your code in an external sheet like you do with css.
+
+<script src="./jsfolder"></script>
+
+////////////////////////////////////////////////////////////////
+
+Lesson 6
+
+ <script>
+    /*'alert' is a function, function is short for functionailty. alert();*/
+  </script>
+
+   alert(); - This is a function
+
+  Functions are little chunks of code that act like mini apps. They provide some sort of functionality (which is why they're called functions). In other words, they do something for you.
+
+  The alert function creates a popup box in the web browser.
+
+  A function is any word followed by (). If you see a word and () you know it's a function.
+
+  The alert can send messages. You simply have to add '' and type something like this -
+
+  alert('Display Message');
+
+  Now when you refresh the page a pop up box will appear that says "display message"
+
+  a semicolin ; ends a function.
+
+  you can write 2 functions like this - 
+
+  alert('Display Message'); alert('Display Message 2');
+
+  The semicolin tells the browser it's 2 seperate functions. This means that one pop up box will appear and then when you click ok on it, another will appear.
+
+  Nerds call this "calling" a function. Remember that... calling.
+
+  Any syntax errors, like forgetting to put a semicolon will cause an error message and your code wil not run properly. Just like with HTML and CSS.
+
+  You can inspect js errors is the chrome dev tools by opening it and clicking on consol.
+
+  Erros will always happen so get used to it!
+
+  
